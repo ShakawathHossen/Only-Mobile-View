@@ -1,0 +1,24 @@
+body{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #013e37 !important;
+   
+}
+.mosque{
+    background: url(images/14924444_rm194-aew-11.jpg);
+    background-position: top;
+    height: 40vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.tittle{
+    background-color: #00312b !important;
+    color: #c6d8a4;
+}
+.functions{
+    height: ;
+}
+.box-color{
+    background-color: #00312b !important;
+}
